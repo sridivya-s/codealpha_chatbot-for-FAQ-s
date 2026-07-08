@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chatbot for FAQ's</title>
+  <link rel="stylesheet" href="{{url_for('static', filename='style.css')  }}">
+</head>
+
+<body>
+  <div class="chat-container">
+    <div class="heading">
+      <h2>Chatbot for FAQ's</h2>
+      <p>Ask questions and clarify your doubts</p>
+    </div>
+    <div id="chat-box"></div>
+    <div class="input-area">
+      <input type="text" id="user-input" placeholder="Type your question here...">
+      <button id="send-btn">Ask</button>
+    </div>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+
+</html>

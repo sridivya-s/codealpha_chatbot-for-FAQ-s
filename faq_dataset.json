@@ -1,0 +1,150 @@
+[
+  {
+    "question": "Hello",
+    "answer": "Hello! How can I help you today?"
+  },
+  {
+    "question": "Hi",
+    "answer": "Hi there! What can I do for you?"
+  },
+  {
+    "question": "How are you?",
+    "answer": "I'm doing great! Thanks for asking. How can I assist you?"
+  },
+  {
+    "question": "What is your name?",
+    "answer": "I'm an AI chatbot created to help answer your questions."
+  },
+  {
+    "question": "Who created you?",
+    "answer": "I was created by developers using artificial intelligence technologies."
+  },
+  {
+    "question": "What can you do?",
+    "answer": "I can answer questions, provide information, solve basic problems, and assist with various tasks."
+  },
+  {
+    "question": "What is AI?",
+    "answer": "Artificial Intelligence (AI) is the simulation of human intelligence in machines that can learn, reason, and solve problems."
+  },
+  {
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning is a branch of AI that enables computers to learn from data without being explicitly programmed."
+  },
+  {
+    "question": "What is Python?",
+    "answer": "Python is a popular programming language known for its simplicity and versatility."
+  },
+  {
+    "question": "What is Java?",
+    "answer": "Java is an object-oriented programming language widely used for web, desktop, and mobile applications."
+  },
+  {
+    "question": "What is HTML?",
+    "answer": "HTML stands for HyperText Markup Language and is used to create web pages."
+  },
+  {
+    "question": "What is CSS?",
+    "answer": "CSS stands for Cascading Style Sheets and is used to style HTML web pages."
+  },
+  {
+    "question": "What is JavaScript?",
+    "answer": "JavaScript is a programming language used to make websites interactive."
+  },
+  {
+    "question": "What is Git?",
+    "answer": "Git is a distributed version control system used to track changes in source code."
+  },
+  {
+    "question": "What is GitHub?",
+    "answer": "GitHub is a cloud platform that hosts Git repositories for collaboration and version control."
+  },
+  {
+    "question": "What is cloud computing?",
+    "answer": "Cloud computing provides computing resources such as servers and storage over the internet."
+  },
+  {
+    "question": "What is AWS?",
+    "answer": "Amazon Web Services (AWS) is a cloud computing platform offering various services like storage, databases, and virtual servers."
+  },
+  {
+    "question": "What is cybersecurity?",
+    "answer": "Cybersecurity is the practice of protecting systems, networks, and data from cyber threats."
+  },
+  {
+    "question": "What is a database?",
+    "answer": "A database is an organized collection of data that can be stored, managed, and retrieved efficiently."
+  },
+  {
+    "question": "What is SQL?",
+    "answer": "SQL stands for Structured Query Language and is used to manage relational databases."
+  },
+  {
+    "question": "What is an API?",
+    "answer": "An API (Application Programming Interface) allows different software applications to communicate with each other."
+  },
+  {
+    "question": "What is JSON?",
+    "answer": "JSON (JavaScript Object Notation) is a lightweight format used to store and exchange data."
+  },
+  {
+    "question": "What is a chatbot?",
+    "answer": "A chatbot is a software application that interacts with users through text or voice conversations."
+  },
+  {
+    "question": "What is data science?",
+    "answer": "Data science involves extracting insights from data using statistics, programming, and machine learning."
+  },
+  {
+    "question": "What is deep learning?",
+    "answer": "Deep learning is a subset of machine learning that uses neural networks with multiple layers."
+  },
+  {
+    "question": "What is the Internet?",
+    "answer": "The Internet is a global network that connects millions of computers and devices."
+  },
+  {
+    "question": "What is an operating system?",
+    "answer": "An operating system manages computer hardware and software resources and provides services for applications."
+  },
+  {
+    "question": "What is Linux?",
+    "answer": "Linux is a free and open-source operating system widely used for servers and development."
+  },
+  {
+    "question": "What is Windows?",
+    "answer": "Windows is an operating system developed by Microsoft for personal computers."
+  },
+  {
+    "question": "What is computer programming?",
+    "answer": "Programming is the process of writing instructions that tell a computer how to perform tasks."
+  },
+  {
+    "question": "What is the capital of India?",
+    "answer": "The capital of India is New Delhi."
+  },
+  {
+    "question": "What is the largest planet?",
+    "answer": "Jupiter is the largest planet in our Solar System."
+  },
+  {
+    "question": "Who invented the telephone?",
+    "answer": "Alexander Graham Bell is widely credited with inventing the practical telephone."
+  },
+  {
+    "question": "What is the speed of light?",
+    "answer": "The speed of light in a vacuum is approximately 299,792 kilometers per second."
+  },
+  {
+    "question": "What time is it?",
+    "answer": "I cannot access the current time, but your device can display it."
+  },
+  {
+    "question": "Thank you",
+    "answer": "You're welcome! Happy to help."
+  },
+  {
+    "question": "Bye",
+    "answer": "Goodbye! Have a wonderful day."
+  }
+]
