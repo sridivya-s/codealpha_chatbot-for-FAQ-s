@@ -1,122 +1,118 @@
 [
   {
-    "question": "What is mental health?",
-    "answer": "Mental health refers to a person's emotional, psychological, and social well-being."
+    "question": "What is fitness?",
+    "answer": "Fitness is the ability to perform daily activities efficiently while maintaining good physical and mental health."
   },
   {
-    "question": "What is stress?",
-    "answer": "Stress is the body's natural response to challenging or demanding situations."
+    "question": "How often should I exercise?",
+    "answer": "Aim for at least 150 minutes of moderate-intensity exercise or 75 minutes of vigorous exercise each week."
   },
   {
-    "question": "How can I reduce stress?",
-    "answer": "You can reduce stress by exercising regularly, practicing deep breathing, getting enough sleep, and managing your time effectively."
+    "question": "What is the best time to work out?",
+    "answer": "The best time to work out is whenever you can exercise consistently, whether it's morning, afternoon, or evening."
   },
   {
-    "question": "Why is sleep important?",
-    "answer": "Sleep helps the body recover, improves memory, supports mental health, and boosts the immune system."
+    "question": "How long should a workout last?",
+    "answer": "A typical workout lasts between 30 and 60 minutes, depending on your fitness goals."
   },
   {
-    "question": "How many hours should adults sleep?",
-    "answer": "Most adults need between 7 and 9 hours of sleep each night."
+    "question": "Why is warming up important?",
+    "answer": "Warming up increases blood flow, prepares muscles for exercise, and reduces the risk of injury."
   },
   {
-    "question": "What are common signs of stress?",
-    "answer": "Common signs include headaches, fatigue, irritability, difficulty concentrating, and trouble sleeping."
+    "question": "Why should I cool down after exercise?",
+    "answer": "Cooling down helps your heart rate return to normal and reduces muscle soreness."
   },
   {
-    "question": "What is anxiety?",
-    "answer": "Anxiety is a feeling of worry, fear, or nervousness that can affect daily life."
+    "question": "What are strength exercises?",
+    "answer": "Strength exercises build muscle using body weight, resistance bands, or weights."
   },
   {
-    "question": "Can exercise improve mental health?",
-    "answer": "Yes. Regular exercise can improve mood, reduce stress, and help manage anxiety."
+    "question": "What is cardio exercise?",
+    "answer": "Cardio exercises improve heart and lung health. Examples include walking, running, cycling, and swimming."
   },
   {
-    "question": "How does meditation help?",
-    "answer": "Meditation promotes relaxation, improves focus, and helps reduce stress and anxiety."
+    "question": "How can I build muscle?",
+    "answer": "Build muscle through strength training, eating enough protein, and allowing proper recovery."
   },
   {
-    "question": "What is mindfulness?",
-    "answer": "Mindfulness is the practice of paying attention to the present moment without judgment."
+    "question": "How can I lose body fat?",
+    "answer": "Lose body fat by combining regular exercise, healthy eating, and maintaining a calorie deficit."
   },
   {
-    "question": "How can I improve my mood?",
-    "answer": "Regular exercise, healthy eating, social connections, hobbies, and quality sleep can improve mood."
+    "question": "Should I exercise every day?",
+    "answer": "You can be active daily, but include rest or light activity days to allow your muscles to recover."
   },
   {
-    "question": "Why is hydration important?",
-    "answer": "Staying hydrated supports brain function, energy levels, and overall well-being."
+    "question": "How much sleep do I need for fitness?",
+    "answer": "Adults should aim for 7 to 9 hours of quality sleep each night for optimal recovery."
   },
   {
-    "question": "Can music reduce stress?",
-    "answer": "Yes. Listening to calming music can help reduce stress and promote relaxation."
+    "question": "What should I eat before a workout?",
+    "answer": "Eat a light meal with carbohydrates and protein about 1 to 2 hours before exercising."
   },
   {
-    "question": "What are healthy coping strategies?",
-    "answer": "Healthy coping strategies include talking to friends, exercising, journaling, and practicing relaxation techniques."
+    "question": "What should I eat after a workout?",
+    "answer": "Consume protein and carbohydrates after exercise to help muscle recovery and replenish energy."
   },
   {
-    "question": "Why is work-life balance important?",
-    "answer": "A healthy work-life balance helps reduce stress and improves overall well-being."
+    "question": "How much water should I drink during exercise?",
+    "answer": "Drink water before, during, and after exercise. Your needs depend on workout intensity and weather."
   },
   {
-    "question": "Can spending time outdoors improve mental health?",
-    "answer": "Yes. Spending time in nature can reduce stress and improve mood."
+    "question": "Can walking improve fitness?",
+    "answer": "Yes. Regular brisk walking improves cardiovascular health, endurance, and overall fitness."
   },
   {
-    "question": "What are breathing exercises?",
-    "answer": "Breathing exercises involve slow, deep breaths to help relax the body and reduce stress."
+    "question": "Is stretching necessary?",
+    "answer": "Yes. Stretching improves flexibility, mobility, and may help reduce muscle stiffness."
   },
   {
-    "question": "How can I stay positive?",
-    "answer": "Practice gratitude, focus on achievable goals, and maintain supportive relationships."
+    "question": "What is BMI?",
+    "answer": "BMI, or Body Mass Index, estimates body weight relative to height but does not directly measure body fat."
   },
   {
-    "question": "What is emotional well-being?",
-    "answer": "Emotional well-being is the ability to understand, manage, and express emotions in healthy ways."
+    "question": "How many steps should I walk daily?",
+    "answer": "A goal of 8,000 to 10,000 steps per day is commonly recommended for general health."
   },
   {
-    "question": "How can I improve concentration?",
-    "answer": "Get enough sleep, minimize distractions, take regular breaks, and practice mindfulness."
+    "question": "What is HIIT?",
+    "answer": "HIIT stands for High-Intensity Interval Training, involving short bursts of intense exercise followed by rest."
   },
   {
-    "question": "Why are hobbies important?",
-    "answer": "Hobbies provide enjoyment, reduce stress, and improve mental well-being."
+    "question": "Can beginners lift weights?",
+    "answer": "Yes. Beginners should start with light weights, proper form, and gradually increase intensity."
   },
   {
-    "question": "Can laughter improve health?",
-    "answer": "Yes. Laughter reduces stress hormones and promotes positive emotions."
+    "question": "How many rest days do I need?",
+    "answer": "Most people benefit from one or two rest days each week depending on workout intensity."
   },
   {
-    "question": "What is self-care?",
-    "answer": "Self-care involves activities that support your physical, emotional, and mental health."
+    "question": "Does exercise improve mental health?",
+    "answer": "Yes. Regular physical activity can reduce stress, anxiety, and improve mood."
   },
   {
-    "question": "How can I build resilience?",
-    "answer": "Develop healthy habits, maintain social support, and learn positive coping skills."
+    "question": "Can I exercise on an empty stomach?",
+    "answer": "Some people can, but others perform better after a light meal. It depends on personal preference and workout intensity."
   },
   {
-    "question": "Why is social support important?",
-    "answer": "Strong relationships can improve emotional health and help people cope with challenges."
+    "question": "What is flexibility training?",
+    "answer": "Flexibility training includes stretching exercises that improve joint movement and muscle elasticity."
   },
   {
-    "question": "Can healthy eating affect mental health?",
-    "answer": "Yes. A balanced diet provides nutrients that support brain function and emotional well-being."
+    "question": "How can I improve endurance?",
+    "answer": "Improve endurance with regular cardio exercises such as running, cycling, swimming, or brisk walking."
   },
   {
-    "question": "What is burnout?",
-    "answer": "Burnout is a state of emotional, mental, and physical exhaustion caused by prolonged stress."
+    "question": "Are push-ups a good exercise?",
+    "answer": "Yes. Push-ups strengthen the chest, shoulders, arms, and core muscles."
   },
   {
-    "question": "How can I manage my time better?",
-    "answer": "Prioritize tasks, create schedules, and take regular breaks to avoid feeling overwhelmed."
+    "question": "What are squats good for?",
+    "answer": "Squats strengthen the legs, hips, glutes, and core while improving balance."
   },
   {
-    "question": "Why is gratitude important?",
-    "answer": "Practicing gratitude can improve mood, increase optimism, and reduce stress."
-  },
-  {
-    "question": "What are the keys to good mental health?",
-    "answer": "Healthy habits, regular exercise, quality sleep, strong relationships, stress management, and seeking help when needed all contribute to good mental health."
+    "question": "How do I stay motivated to exercise?",
+    "answer": "Set realistic goals, track progress, vary workouts, and find a workout buddy to stay motivated."
   }
 ]
